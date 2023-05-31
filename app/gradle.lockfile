@@ -1,7 +1,6 @@
 # This is a Gradle generated file for dependency locking.
 # Manual edits can break the build and are not advised.
 # This file is expected to be part of source control.
-com.christophsturm:filepeek:0.1.2=testRuntimeClasspath
 com.github.ajalt:clikt:2.8.0=compileClasspath,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
 com.google.auto.service:auto-service-annotations:1.0-rc7=kapt,kaptClasspath_kaptKotlin,kaptTest
 com.google.code.findbugs:jsr305:3.0.2=kapt,kaptClasspath_kaptKotlin,kaptTest

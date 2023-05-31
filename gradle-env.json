@@ -2224,36 +2224,6 @@
       "project": [
         {
           "id": {
-            "group": "com.christophsturm",
-            "name": "filepeek",
-            "version": "0.1.2",
-            "type": "jar",
-            "extension": "jar"
-          },
-          "name": "filepeek-0.1.2.jar",
-          "path": "com/christophsturm/filepeek/0.1.2",
-          "urls": [
-            "https://repo.gradle.org/gradle/libs-releases/com/christophsturm/filepeek/0.1.2/filepeek-0.1.2.jar"
-          ],
-          "sha256": "29a5735255bb1f3652a4e2592a2bd8ca754717f8d62eb4a65680c992b98af4b0"
-        },
-        {
-          "id": {
-            "group": "com.christophsturm",
-            "name": "filepeek",
-            "version": "0.1.2",
-            "type": "pom",
-            "extension": "pom"
-          },
-          "name": "filepeek-0.1.2.pom",
-          "path": "com/christophsturm/filepeek/0.1.2",
-          "urls": [
-            "https://repo.gradle.org/gradle/libs-releases/com/christophsturm/filepeek/0.1.2/filepeek-0.1.2.pom"
-          ],
-          "sha256": "a01fcc97303305918b3c8e943bc208c5a0d915b8f8fb9c963cddf27cd89e3e57"
-        },
-        {
-          "id": {
             "group": "com.github.ajalt",
             "name": "clikt",
             "version": "2.8.0",
@@ -9198,31 +9168,31 @@
           "id": {
             "group": "dev.minutest",
             "name": "minutest",
-            "version": "2.0.0-alpha",
+            "version": "2.0.0-rc4",
             "type": "jar",
             "extension": "jar"
           },
-          "name": "minutest-2.0.0-alpha.jar",
-          "path": "dev/minutest/minutest/2.0.0-alpha",
+          "name": "minutest-2.0.0-rc4.jar",
+          "path": "dev/minutest/minutest/2.0.0-rc4",
           "urls": [
-            "https://repo.gradle.org/gradle/libs-releases/dev/minutest/minutest/2.0.0-alpha/minutest-2.0.0-alpha.jar"
+            "https://repo1.maven.org/maven2/dev/minutest/minutest/2.0.0-rc4/minutest-2.0.0-rc4.jar"
           ],
-          "sha256": "7c595c03d13b460e9b24a366d5228242776658ab3a75ab8e9b7b9b602393b59a"
+          "sha256": "38cfb237e97cf440a5995aca97525d96000274955ead79cf14ef30f9ccff2639"
         },
         {
           "id": {
             "group": "dev.minutest",
             "name": "minutest",
-            "version": "2.0.0-alpha",
+            "version": "2.0.0-rc4",
             "type": "pom",
             "extension": "pom"
           },
-          "name": "minutest-2.0.0-alpha.pom",
-          "path": "dev/minutest/minutest/2.0.0-alpha",
+          "name": "minutest-2.0.0-rc4.pom",
+          "path": "dev/minutest/minutest/2.0.0-rc4",
           "urls": [
-            "https://repo.gradle.org/gradle/libs-releases/dev/minutest/minutest/2.0.0-alpha/minutest-2.0.0-alpha.pom"
+            "https://repo1.maven.org/maven2/dev/minutest/minutest/2.0.0-rc4/minutest-2.0.0-rc4.pom"
           ],
-          "sha256": "343d2376b797ec34073758b04c8aef4e5227184e8adbc105531a4ddfc2bd52ea"
+          "sha256": "51f123fa92815ec60a7fb535bc6fbe5b804098e29d05544a4c4ae458e082c5f4"
         },
         {
           "id": {

@@ -1,3 +1,7 @@
+repositories {
+    mavenCentral()
+}
+
 buildscript {
     configurations.classpath {
         resolutionStrategy.activateDependencyLocking()
@@ -35,7 +39,7 @@ dependencies {
 
     compatTestImplementation("com.adobe.testing:s3mock-junit5:2.1.28")
     compatTestImplementation("com.squareup.okio:okio:3.0.0-alpha.1")
-    compatTestImplementation("dev.minutest:minutest:2.0.0-alpha")
+    compatTestImplementation("dev.minutest:minutest:2.0.0-rc4")
     compatTestImplementation("io.javalin:javalin:3.13.3")
     compatTestImplementation("io.strikt:strikt-core:0.28.2")
     compatTestImplementation("org.junit.jupiter:junit-jupiter-api:5.7.0")
